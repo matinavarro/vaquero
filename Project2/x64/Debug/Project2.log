@@ -1,0 +1,100 @@
+﻿  Juego.cpp
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Juego.cpp(37,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Juego.cpp(37,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Main.cpp
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Main.cpp(7,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Personajes.cpp
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(18,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(18,30): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(22,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(22,30): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(26,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(26,30): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(30,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(30,30): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(34,46): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(34,30): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  mira.cpp
+  Generando código...
+C:\Users\mati\Desktop\Trabajo Practico 1\Project2\Project2\Personajes.cpp(39): warning C4715: 'Personajes::randomPos': no todas las rutas de acceso de control devuelven un valor
+  Project2.vcxproj -> C:\Users\mati\Desktop\Trabajo Practico 1\Project2\x64\Debug\Project2.exe
